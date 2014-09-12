@@ -1,6 +1,3 @@
-include cpan
-cpan {  
-
 Compress::Zlib
 Class::Accessor::Fast::XS
 File::Spec
@@ -32,4 +29,5 @@ CGI::Application::Plugin::HTMLPrototype
 Path::Class
 File::Basename
 File::stat
-
+IPC::Cmd
+DBD::SQLite
