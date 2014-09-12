@@ -7,3 +7,4 @@
 puppet/modules
 Puppetfile.lock
 .cache/*.gz
+moutons-test
